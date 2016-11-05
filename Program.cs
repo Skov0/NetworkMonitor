@@ -157,7 +157,7 @@ namespace SimpleNetMonitor
             catch
             {
                 downTime = downTime + 5;
-                string print = _DEBUG + "Unable to start monitor... Retrying in 5 secounds... " + "(" + runTimes.ToString() + ")";
+                string print = _DEBUG + "Unable to run monitor... Retrying in 5 secounds... " + "(" + runTimes.ToString() + ")";
                 Console.WriteLine(print);
                 Log(print);
             }         
