@@ -1,0 +1,7 @@
+d:\data & andet\dokumenter\visual studio 2015\Projects\SimpleNetMonitor\bin\Release\SimpleNetMonitor.exe
+d:\data & andet\dokumenter\visual studio 2015\Projects\SimpleNetMonitor\bin\Release\SimpleNetMonitor.pdb
+d:\data & andet\dokumenter\visual studio 2015\Projects\SimpleNetMonitor\obj\Release\SimpleNetMonitor.Properties.Resources.resources
+d:\data & andet\dokumenter\visual studio 2015\Projects\SimpleNetMonitor\obj\Release\SimpleNetMonitor.csproj.GenerateResource.Cache
+d:\data & andet\dokumenter\visual studio 2015\Projects\SimpleNetMonitor\obj\Release\SimpleNetMonitor.exe
+d:\data & andet\dokumenter\visual studio 2015\Projects\SimpleNetMonitor\obj\Release\SimpleNetMonitor.pdb
+d:\data & andet\dokumenter\visual studio 2015\Projects\SimpleNetMonitor\obj\Release\SimpleNetMonitor.csprojResolveAssemblyReference.cache

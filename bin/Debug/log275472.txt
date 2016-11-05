@@ -1,0 +1,26 @@
+NetworkMonitor v0.1 written by Mat S. results: 
+---------------------------------------------------
+Start time           : 11/5/2016 4:18:10 PM.
+Stop time            : 11/5/2016 4:18:36 PM.
+Total runtime        : 00:00:25.
+Total downtime       : 00:00:00.
+Total log entries    : 5.
+---------------------------------------------------
+
+
+
+4:18:15 PM Saturday, November 5, 2016
+[STATUS] Test ran successfully... (1)
+-------------------------------------
+4:18:20 PM Saturday, November 5, 2016
+[STATUS] Test ran successfully... (2)
+-------------------------------------
+4:18:25 PM Saturday, November 5, 2016
+[STATUS] Test ran successfully... (3)
+-------------------------------------
+4:18:30 PM Saturday, November 5, 2016
+[STATUS] Test ran successfully... (4)
+-------------------------------------
+4:18:35 PM Saturday, November 5, 2016
+[STATUS] Test ran successfully... (5)
+-------------------------------------

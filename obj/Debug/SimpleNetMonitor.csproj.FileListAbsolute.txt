@@ -1,0 +1,6 @@
+d:\data & andet\dokumenter\visual studio 2015\Projects\SimpleNetMonitor\bin\Debug\SimpleNetMonitor.exe
+d:\data & andet\dokumenter\visual studio 2015\Projects\SimpleNetMonitor\bin\Debug\SimpleNetMonitor.pdb
+d:\data & andet\dokumenter\visual studio 2015\Projects\SimpleNetMonitor\obj\Debug\SimpleNetMonitor.Properties.Resources.resources
+d:\data & andet\dokumenter\visual studio 2015\Projects\SimpleNetMonitor\obj\Debug\SimpleNetMonitor.csproj.GenerateResource.Cache
+d:\data & andet\dokumenter\visual studio 2015\Projects\SimpleNetMonitor\obj\Debug\SimpleNetMonitor.exe
+d:\data & andet\dokumenter\visual studio 2015\Projects\SimpleNetMonitor\obj\Debug\SimpleNetMonitor.pdb
