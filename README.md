@@ -1,4 +1,4 @@
-# simpleNetMonitor
+# NetworkMonitor
 Monitors network connectivity using ping.
 
 The app selects a server from an array and pings that server every 5 secounds. If the ping is successfull it prints it, and logs it.
