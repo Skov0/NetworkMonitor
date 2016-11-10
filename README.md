@@ -6,4 +6,4 @@ When the app is closed it generates a log file in the working directory with som
 
 Tested on Windows 10 (64-bit).
 <br />
-Build on .NET Framework 4.0.
+Built on .NET Framework 4.0.
